@@ -1,6 +1,11 @@
 import java.math.*;
 import java.util.Scanner;
 
+/**
+ * Controller class. Manages over all other classes.
+ * @author Tom Smith
+ *
+ */
 public class Controller {
 
 	//TODO mention in report
